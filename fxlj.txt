@@ -1,0 +1,5 @@
+trojan-go://1a1db98b-39a1-4a05-97d7-da286000cbc3@plmnko.jsiajijuw5qd.repl.co:443/?type=ws&sni=plmnko.jsiajijuw5qd.repl.co&host=plmnko.jsiajijuw5qd.repl.co&path=%2F1a1db98b-39a1-4a05-97d7-da286000cbc3-trojan#trojan-go@plmnko.jsiajijuw5qd.repl.co:443
+
+trojan-go://a0e6f257-43f5-4e64-97b0-ca55c1e95e19@zasxq.sjifewkiow.repl.co:443/?type=ws&sni=zasxq.sjifewkiow.repl.co&host=zasxq.sjifewkiow.repl.co&path=%2Fa0e6f257-43f5-4e64-97b0-ca55c1e95e19-trojan#trojan-go@zasxq.sjifewkiow.repl.co:443
+
+vless://1a1db98b-39a1-4a05-97d7-da286000cbc3@plmnko.jsiajijuw5qd.repl.co:443?type=ws&security=tls&path=%2F1a1db98b-39a1-4a05-97d7-da286000cbc3-vless&host&sni=plmnko.jsiajijuw5qd.repl.co&alpn=#vless%40plmnko.jsiajijuw5qd.repl.co%3A443
